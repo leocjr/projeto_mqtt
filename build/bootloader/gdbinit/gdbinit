@@ -1,0 +1,2 @@
+source /home/leo/Documentos/projetosDeEstudo/projeto_mqtt/build/bootloader/gdbinit/symbols
+source /home/leo/Documentos/projetosDeEstudo/projeto_mqtt/build/bootloader/gdbinit/connect
